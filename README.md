@@ -1,1 +1,2 @@
 # JavaFx-mortgage-calculator-app
+I created a JavaFx mortgage calculator app that allows the users to enter a purchase price, down-payment amount and interest rate. Based on these values, the app calculates the loan amount (purchase price minus down payment) and displays the monthly payment for 10-,20- and 30- year loans. The user can also select a custom loan duration (in years) by using slider and it displays monthly payments.
